@@ -72,8 +72,8 @@ Aquí iré enlazando cada día a su respectivo `README.md` conforme los vaya com
 Para clonar y explorar el repositorio completo:
 
 ```bash
-git clone https://github.com/tuusuario/100-days-of-code.git
-cd 100-days-of-code
+[git clone https://github.com/tuusuario/100-days-of-code.git
+cd 100-days-of-code](https://github.com/Jose-Escamilla/100-days-of-code.git)
 ```
 ## 🌱 Objetivo personal
 
