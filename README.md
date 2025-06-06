@@ -5,7 +5,8 @@ Este repositorio contiene mi progreso diario a lo largo del curso 🔗[**"100 Da
 Cada carpeta (`Day1`, `Day2`, ..., `Day100`) representa un proyecto o desafío desarrollado en un día del curso.  
 La meta es documentar cada proyecto con sus retos, soluciones, capturas, y aprendizajes.
 
-![Angela Yu loses it](https://github.com/Jose-Escamilla/100-days-of-code/raw/master/angela-yu.gif)
+<!-- ![Angela Yu loses it](https://github.com/Jose-Escamilla/100-days-of-code/raw/master/angela-yu.gif) -->
+<p align="center"> <img src="https://github.com/Jose-Escamilla/100-days-of-code/raw/master/angela-yu.gif" width="400" alt="Angela Yu loses it"> </p>
 
 ---
 
