@@ -5,6 +5,8 @@ Este repositorio contiene mi progreso diario a lo largo del curso 🔗[**"100 Da
 Cada carpeta (`Day1`, `Day2`, ..., `Day100`) representa un proyecto o desafío desarrollado en un día del curso.  
 La meta es documentar cada proyecto con sus retos, soluciones, capturas, y aprendizajes.
 
+![# Angela Yu loses it](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI0dW04Z3Rlb2d5ajNkYW0zbDdmaWRiYnBqN283ZHQwN3AzdTB2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAEiOlZvmv9pCQPlqz/giphy.gif)
+
 ---
 
 ## 📁 Estructura del repositorio
