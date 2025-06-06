@@ -99,7 +99,7 @@ Durante este reto he aprendido sobre:
 - Buenas prácticas y estilo de código
 
 
-> 📌 *Actualizado hasta el día 35. Las enlaces se agregarán conforme se avance con los temas propuestos por Angela Yu.*
+> 📌 *Actualizado hasta el Día 35. Las lecciones se irán añadiendo conforme avance con los temas propuestos por Angela Yu.*
 
 ---
 
