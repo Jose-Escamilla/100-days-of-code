@@ -97,9 +97,10 @@ Durante este reto he aprendido sobre:
 - Interfaces gráficas con `tkinter` y `customtkinter`
 - Consumo de `APIs` y automatización
 - Buenas prácticas y estilo de código
+- Uso de métodos HTTP (POST, PUT, DELETE), autenticación con headers y manejo de fechas con `strftime`
 
 
-> 📌 *Actualizado hasta el Día 35. Las lecciones se irán añadiendo conforme avance con los temas propuestos por Angela Yu.*
+> 📌 *Actualizado hasta el Día 37. Las lecciones se irán añadiendo conforme avance con los temas propuestos por Angela Yu.*
 
 ---
 
