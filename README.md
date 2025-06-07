@@ -65,6 +65,7 @@ Aquí iré enlazando cada día a su respectivo `README.md` conforme los vaya com
 | 33  | Proyecto del Día 33 | _Pendiente_ |
 | 34  | Proyecto del Día 34 | _Pendiente_ |
 | 35  | Proyecto del Día 35 | _Pendiente_ |
+| 36  | Proyecto del Día 36 | [Ver proyecto](/master/Day36/README_Day36.md) |
 | ... | ... | ... |
 
 > 📌 *Actualizado hasta el día 35. Los enlaces se agregarán conforme se creen los README individuales.*
