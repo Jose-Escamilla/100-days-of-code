@@ -1,5 +1,5 @@
 
-# Día X - [Nombre del Proyecto]
+# Día 36 - Stock Trading News Alert Project (Acciones de TESLA)
 
 ## 📝 Descripción
 
