@@ -1,111 +1,111 @@
-# 🐍 100 Days of Code - Curso de Python de Angela Yu
+# 🐍 100 Days of Code - Angela Yu's Python Course
 
-Este repositorio contiene mi progreso diario a lo largo del curso 🔗[**"100 Days of Code: The Complete Python Pro Bootcamp"**](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOoqXNp44AZo_nD8_QYPr7c2X3pqRs4ibJuQM2gFKR36XMr9y_pvI&couponCode=ST21MT30625G2) de Angela Yu (actualizado al 2025). 
+This repository contains my daily progress throughout the 🔗[**"100 Days of Code: The Complete Python Pro Bootcamp"**](https://www.udemy.com/course/100-days-of-code/?srsltid=AfmBOoqXNp44AZo_nD8_QYPr7c2X3pqRs4ibJuQM2gFKR36XMr9y_pvI&couponCode=ST21MT30625G2) course by Angela Yu (updated as of 2025).
 
-Cada carpeta (`Day1`, `Day2`, ..., `Day100`) representa un proyecto o desafío desarrollado en un día del curso.  
-La meta es documentar cada proyecto con sus retos, soluciones, capturas, y aprendizajes.
+Each folder (`Day1`, `Day2`, ..., `Day100`) represents a project or challenge developed during one day of the course.  
+The goal is to document each project with its challenges, solutions, screenshots, and lessons learned.
 
-<!-- ![Angela Yu loses it](https://github.com/Jose-Escamilla/100-days-of-code/raw/master/angela-yu.gif) -->
 <p align="center"> <img src="https://github.com/Jose-Escamilla/100-days-of-code/raw/master/angela-yu.gif" width="400" alt="Angela Yu loses it"> </p>
 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Repository Structure
 
-Cada subcarpeta incluye:
+Each subfolder includes:
 
-- ✅ Un **título claro** y **descripción del proyecto** del día.
-- ⚙️ **Instrucciones de instalación** específicas si el proyecto lo requiere.
-- ▶️ Indicaciones para **ejecutar el código localmente**.
-- 📷 **Capturas de pantalla**, **GIFs** o **videos** mostrando el funcionamiento.
-- 💡 Un **análisis del problema**, el enfoque utilizado y la solución implementada.
-- 🚀 Posibles **mejoras futuras** o limitaciones detectadas.
-- 🧠 Una **explicación de mi proceso de pensamiento** y cómo enfrenté los retos.
+- ✅ A **clear title** and **project description** for the day.
+- ⚙️ **Installation instructions** if the project requires them.
+- ▶️ Guidance to **run the code locally**.
+- 📷 **Screenshots**, **GIFs**, or **videos** showing how it works.
+- 💡 A **problem analysis**, the approach used, and the implemented solution.
+- 🚀 Potential **future improvements** or detected limitations.
+- 🧠 An **explanation of my thought process** and how I tackled challenges.
 
 ---
 
-## 📌 Índice de Días Completados
+## 📌 Index of Completed Days
 
-Aquí iré enlazando cada día a su respectivo `README.md` conforme los vaya completando:
+Here I will link each day to its respective `README.md` as I complete them:
 
-| Día | Proyecto | Enlace |
-|-----|----------|--------|
-| 1   | Proyecto del Día 1  | _Pendiente_ |
-| 2   | Proyecto del Día 2  | _Pendiente_ |
-| 3   | Proyecto del Día 3  | _Pendiente_ |
-| 4   | Proyecto del Día 4  | _Pendiente_ |
-| 5   | Proyecto del Día 5  | _Pendiente_ |
-| 6   | Proyecto del Día 6  | _Pendiente_ |
-| 7   | Proyecto del Día 7  | _Pendiente_ |
-| 8   | Proyecto del Día 8  | _Pendiente_ |
-| 9   | Proyecto del Día 9  | _Pendiente_ |
-| 10  | Proyecto del Día 10 | _Pendiente_ |
-| 11  | Proyecto del Día 11 | _Pendiente_ |
-| 12  | Proyecto del Día 12 | _Pendiente_ |
-| 13  | Proyecto del Día 13 | _Pendiente_ |
-| 14  | Proyecto del Día 14 | _Pendiente_ |
-| 15  | Proyecto del Día 15 | _Pendiente_ |
-| 16  | Proyecto del Día 16 | _Pendiente_ |
-| 17  | Proyecto del Día 17 | _Pendiente_ |
-| 18  | Proyecto del Día 18 | _Pendiente_ |
-| 19  | Proyecto del Día 19 | _Pendiente_ |
-| 20  | Proyecto del Día 20 | _Pendiente_ |
-| 21  | Proyecto del Día 21 | _Pendiente_ |
-| 22  | Proyecto del Día 22 | _Pendiente_ |
-| 23  | Proyecto del Día 23 | _Pendiente_ |
-| 24  | Proyecto del Día 24 | _Pendiente_ |
-| 25  | Proyecto del Día 25 | _Pendiente_ |
-| 26  | Proyecto del Día 26 | _Pendiente_ |
-| 27  | Proyecto del Día 27 | _Pendiente_ |
-| 28  | Proyecto del Día 28 | _Pendiente_ |
-| 29  | Proyecto del Día 29 | _Pendiente_ |
-| 30  | Proyecto del Día 30 | _Pendiente_ |
-| 31  | Proyecto del Día 31 | _Pendiente_ |
-| 32  | Proyecto del Día 32 | _Pendiente_ |
-| 33  | Proyecto del Día 33 | _Pendiente_ |
-| 34  | Proyecto del Día 34 | _Pendiente_ |
-| 35  | Proyecto del Día 35 | _Pendiente_ |
-| 36  | Proyecto del Día 36 | [README del Día 36](./Day36/README_Day36.md) |
+| Day | Project | Link |
+|-----|---------|------|
+| 1   | Day 1 Project  | _Pending_ |
+| 2   | Day 2 Project  | _Pending_ |
+| 3   | Day 3 Project  | _Pending_ |
+| 4   | Day 4 Project  | _Pending_ |
+| 5   | Day 5 Project  | _Pending_ |
+| 6   | Day 6 Project  | _Pending_ |
+| 7   | Day 7 Project  | _Pending_ |
+| 8   | Day 8 Project  | _Pending_ |
+| 9   | Day 9 Project  | _Pending_ |
+| 10  | Day 10 Project | _Pending_ |
+| 11  | Day 11 Project | _Pending_ |
+| 12  | Day 12 Project | _Pending_ |
+| 13  | Day 13 Project | _Pending_ |
+| 14  | Day 14 Project | _Pending_ |
+| 15  | Day 15 Project | _Pending_ |
+| 16  | Day 16 Project | _Pending_ |
+| 17  | Day 17 Project | _Pending_ |
+| 18  | Day 18 Project | _Pending_ |
+| 19  | Day 19 Project | _Pending_ |
+| 20  | Day 20 Project | _Pending_ |
+| 21  | Day 21 Project | _Pending_ |
+| 22  | Day 22 Project | _Pending_ |
+| 23  | Day 23 Project | _Pending_ |
+| 24  | Day 24 Project | _Pending_ |
+| 25  | Day 25 Project | _Pending_ |
+| 26  | Day 26 Project | _Pending_ |
+| 27  | Day 27 Project | _Pending_ |
+| 28  | Day 28 Project | _Pending_ |
+| 29  | Day 29 Project | _Pending_ |
+| 30  | Day 30 Project | _Pending_ |
+| 31  | Day 31 Project | _Pending_ |
+| 32  | Day 32 Project | _Pending_ |
+| 33  | Day 33 Project | _Pending_ |
+| 34  | Day 34 Project | _Pending_ |
+| 35  | Day 35 Project | _Pending_ |
+| 36  | Day 36 Project | [Day 36 README](./Day36/README_Day36.md) |
 | ... | ... | ... |
 
-> 📌 *Actualizado hasta el día 35. Los enlaces se agregarán conforme se creen los README individuales.*
+> 📌 *Updated up to Day 35. Links will be added as individual READMEs are created.*
 
 ---
-## 🔧 Instalación general
 
-Para clonar y explorar el repositorio completo:
+## 🔧 General Installation
+
+To clone and explore the full repository:
 
 ```bash
 git clone https://github.com/Jose-Escamilla/100-days-of-code.git
 ```
-## 🌱 Objetivo personal
 
-- Consolidar fundamentos sólidos en programación con Python.
-- Desarrollar habilidades prácticas con proyectos reales.
-- Documentar el proceso para crear un portafolio técnico.
-- Aprender buenas prácticas de desarrollo: documentación, organización del código, uso de librerías modernas, etc.
+## 🌱 Personal Goal
 
----
-
-## 🧠 Lecciones aprendidas
-
-Durante este reto he aprendido sobre:
-
-- Sintaxis básica de Python
-- Estructuras de control y funciones
-- Programación orientada a objetos
-- Interfaces gráficas con `tkinter` y `customtkinter`
-- Consumo de `APIs` y automatización
-- Buenas prácticas y estilo de código
-- Uso de métodos HTTP (POST, PUT, DELETE), autenticación con headers y manejo de fechas con `strftime`
-
-
-> 📌 *Actualizado hasta el Día 37. Las lecciones se irán añadiendo conforme avance con los temas propuestos por Angela Yu.*
+- Build a solid foundation in Python programming.
+- Develop hands-on skills through real projects.
+- Document the process to create a technical portfolio.
+- Learn development best practices: documentation, code organization, use of modern libraries, etc.
 
 ---
 
-## 📬 Contacto
+## 🧠 Lessons Learned
 
-**Autor:** José Escamilla  
-**Email:** 
-**Tel:**
+Throughout this challenge, I have learned about:
+
+- Basic Python syntax  
+- Control structures and functions  
+- Object-oriented programming  
+- GUIs with `tkinter` and `customtkinter`  
+- API consumption and automation  
+- Best practices and code styling  
+- Use of HTTP methods (POST, PUT, DELETE), authentication with headers, and date handling with `strftime`
+
+> 📌 *Updated through Day 37. Lessons will be added as I progress with Angela Yu’s curriculum.*
+
+---
+
+## 📬 Contact
+
+**Author:** José Escamilla  
+**Email:**  
+**Phone:**
