@@ -35,7 +35,6 @@ Day36/
 1. Clone this repository:
 
 ```bash
-Clone this repository:
 git clone https://github.com/Jose-Escamilla/100-days-of-code.git
 ```
 
