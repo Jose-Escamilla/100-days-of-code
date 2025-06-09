@@ -36,6 +36,8 @@ Day36/
 
 ```bash
 Download this folder:
+https://github.com/Jose-Escamilla/100-days-of-code/tree/master/Day36
+Clone this repository:
 git clone https://github.com/Jose-Escamilla/100-days-of-code.git
 ```
 
