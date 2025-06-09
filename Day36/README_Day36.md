@@ -32,11 +32,9 @@ Day36/
 
 ## ⚙️ Installation
 
-1. Clone this repository or download just this folder:
+1. Clone this repository:
 
 ```bash
-Download this folder:
-https://github.com/Jose-Escamilla/100-days-of-code/tree/master/Day36
 Clone this repository:
 git clone https://github.com/Jose-Escamilla/100-days-of-code.git
 ```
