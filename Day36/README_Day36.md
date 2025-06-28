@@ -17,15 +17,15 @@ This project serves as a practical exercise for integrating multiple APIs, worki
 ## 📁 Project Structure
 ```bash
 Day36/
-├── README.md
-├── requirements.txt
-├── TESLA_stock-news-hard-start/
-│   ├── main.py
-│   └── .env
-├── XRP_stock-news-hard-start/
-│   ├── main.py
-│   └── .env
-└── assets/   # Only images for the README
+├── assets/                           # Images used in the README (e.g., screenshots or demos)
+├── requirements.txt                  # List of Python dependencies for both projects
+├── TESLA_stock-news-hard-start/     # Project to fetch and analyze Tesla stock-related news
+│   ├── main.py                       # Main logic for the Tesla stock news tracker
+│   └── .env                          # Environment variables (e.g., API keys)
+├── XRP_stock-news-hard-start/       # Project to fetch and analyze XRP crypto news
+│   ├── main.py                       # Main logic for the XRP news tracker
+│   └── .env                          # Environment variables (e.g., API keys)
+└── README_Day36.md                   # Project documentation (this file)
 ```
 
 ---
@@ -40,7 +40,7 @@ git clone https://github.com/Jose-Escamilla/100-days-of-code.git
 
 2. Navigate to the folder for this day:
 ```bash
-cd 100-days-of-code/DayX
+cd 100-days-of-code/Day36
 ```
 
 3. (Optional) Create and activate a virtual environment:
