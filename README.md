@@ -109,3 +109,8 @@ Throughout this challenge, I have learned about:
 **Author:** José Escamilla  
 **Email:**  
 **Phone:**
+---
+
+**Made with ❤️ by José Escamilla**
+
+*If you found this project helpful, please give it a ⭐ on GitHub!*
