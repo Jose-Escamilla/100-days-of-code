@@ -65,9 +65,12 @@ Here I will link each day to its respective `README.md` as I complete them:
 | 34  | Day 34 Project | _Pending_ |
 | 35  | Day 35 Project | _Pending_ |
 | 36  | Day 36 Project | [Day 36 README](./Day36/README_Day36.md) |
+| 37  | Day 37 Project | [Day 37 README](./Day37/README_Day37.md) |
+| 38  | Day 38 Project | [Day 38 README](./Day38/README_Day38.md) |
+| 39  | Day 39 Project | [Day 39 README](./Day39/README_Day39.md) |
 | ... | ... | ... |
 
-> 📌 *Updated up to Day 35. Links will be added as individual READMEs are created.*
+> 📌 *Updated up to Day 39. Links will be added as individual READMEs are created.*
 
 ---
 
